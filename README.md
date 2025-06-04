@@ -1,5 +1,8 @@
 # Colouring Game 3 Auto-Clicker
 
+Easy Installation
+- Download Release 1.0 coloring game auto clicker zip file. Then run the application
+
 This program automatically clicks all unfilled boxes in the game "Colouring Game 3" using a fast, grid-based approach. It works on multi-monitor setups and skips already-filled boxes for maximum efficiency.
 
 ## Features
